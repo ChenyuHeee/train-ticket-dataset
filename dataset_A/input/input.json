@@ -20,6 +20,10 @@
         "uuid": "ttA-20260129T151642Z"
     },
     {
+        "Anomaly Description": "A fault occurred from 2026-01-29T23:16:42+08:00 to 2026-01-29T23:19:58+08:00. Please identify the root cause.",
+        "uuid": "tt-20260129T151642Z-tt-pod-failure-ts-seat-service"
+    },
+    {
         "Anomaly Description": "Determine the root cause of the system fault during 2026-01-29T23:18:24+08:00 to 2026-01-29T23:21:44+08:00.",
         "uuid": "ttA-20260129T151824Z"
     },
@@ -28,7 +32,23 @@
         "uuid": "ttA-20260129T151949Z"
     },
     {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-29T23:19:49+08:00 to 2026-01-29T23:23:09+08:00.",
+        "uuid": "tt-20260129T151949Z-tt-stress-mem-route"
+    },
+    {
         "Anomaly Description": "The system experienced an anomaly from 2026-01-29T23:39:29+08:00 to 2026-01-29T23:49:43+08:00. Please infer the possible cause.",
         "uuid": "ttA-20260129T153929Z"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-29T23:53:35+08:00 to 2026-01-30T00:04:19+08:00. Please infer the possible cause.",
+        "uuid": "ttA-20260129T155334Z"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-29T23:53:35+08:00 to 2026-01-30T00:04:19+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260129T155334Z-tt-net-delay-gateway-to-notification"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-30T00:08:14+08:00 and 2026-01-30T00:18:28+08:00 and provide the root cause.",
+        "uuid": "ttA-20260129T160814Z"
     }
 ]
