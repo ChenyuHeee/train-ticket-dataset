@@ -70,5 +70,17 @@
     {
         "Anomaly Description": "The system experienced an anomaly from 2026-01-30T01:18:53+08:00 to 2026-01-30T01:29:07+08:00. Please infer the possible cause.",
         "uuid": "ttA-20260129T171853Z"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-30T01:33:00+08:00 to 2026-01-30T01:43:15+08:00. Please infer the possible cause.",
+        "uuid": "ttA-20260129T173300Z"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-30T01:47:08+08:00 to 2026-01-30T01:57:23+08:00. Please analyze its root cause.",
+        "uuid": "ttA-20260129T174708Z"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-30T01:47:08+08:00 to 2026-01-30T01:57:23+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260129T174708Z-tt-pod-kill-ts-auth-service"
     }
 ]
