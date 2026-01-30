@@ -442,5 +442,17 @@
     {
         "Anomaly Description": "Please analyze the abnormal event between 2026-01-31T04:26:10+08:00 and 2026-01-31T04:36:24+08:00 and provide the root cause.",
         "uuid": "tt-20260130T202610Z-tt-stress-cpu-route-plan"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-31T05:09:22+08:00 and 2026-01-31T05:19:38+08:00 and provide the root cause.",
+        "uuid": "tt-20260130T210922Z-tt-pod-failure-ts-route-service"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-31T05:23:50+08:00 and 2026-01-31T05:34:36+08:00 and provide the root cause.",
+        "uuid": "tt-20260130T212350Z-tt-net-loss-gateway-to-station"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-31T05:38:49+08:00 to 2026-01-31T05:49:06+08:00. Please identify the root cause.",
+        "uuid": "tt-20260130T213849Z-tt-stress-cpu-verification-code"
     }
 ]
