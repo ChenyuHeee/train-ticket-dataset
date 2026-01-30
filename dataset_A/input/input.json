@@ -318,5 +318,17 @@
     {
         "Anomaly Description": "A fault occurred from 2026-01-30T19:15:08+08:00 to 2026-01-30T19:25:52+08:00. Please identify the root cause.",
         "uuid": "tt-20260130T111508Z-tt-net-delay-gateway-to-wait-order"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-30T19:29:53+08:00 to 2026-01-30T19:40:37+08:00. Please infer the possible cause.",
+        "uuid": "ttA-20260130T112953Z"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-30T19:29:53+08:00 to 2026-01-30T19:40:37+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260130T112953Z-tt-net-delay-gateway-to-preserve-mild"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-30T19:44:40+08:00 to 2026-01-30T19:54:53+08:00.",
+        "uuid": "ttA-20260130T114440Z"
     }
 ]
