@@ -354,5 +354,45 @@
     {
         "Anomaly Description": "The system experienced an anomaly from 2026-01-30T20:42:19+08:00 to 2026-01-30T20:53:03+08:00. Please infer the possible cause.",
         "uuid": "tt-20260130T124219Z-tt-net-delay-gateway-to-cancel"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-30T20:57:08+08:00 to 2026-01-30T21:07:52+08:00. Please infer the possible cause.",
+        "uuid": "ttA-20260130T125708Z"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-30T20:57:08+08:00 to 2026-01-30T21:07:52+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260130T125708Z-tt-net-loss-order-to-payment"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-30T21:11:57+08:00 to 2026-01-30T21:22:41+08:00. Please infer the possible cause.",
+        "uuid": "ttA-20260130T131157Z"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-30T21:11:57+08:00 to 2026-01-30T21:22:41+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260130T131157Z-tt-net-loss-gateway-to-price"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-30T21:26:48+08:00 to 2026-01-30T21:37:02+08:00. Please identify the root cause.",
+        "uuid": "ttA-20260130T132648Z"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-30T21:26:48+08:00 to 2026-01-30T21:37:02+08:00. Please identify the root cause.",
+        "uuid": "tt-20260130T132648Z-tt-stress-cpu-travel"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-30T21:41:07+08:00 to 2026-01-30T21:51:21+08:00. Please identify the root cause.",
+        "uuid": "ttA-20260130T134107Z"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-30T21:55:32+08:00 to 2026-01-30T22:06:17+08:00.",
+        "uuid": "ttA-20260130T135532Z"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-30T21:55:32+08:00 to 2026-01-30T22:06:17+08:00.",
+        "uuid": "tt-20260130T135532Z-tt-net-delay-gateway-to-security"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-30T22:10:31+08:00 to 2026-01-30T22:20:46+08:00.",
+        "uuid": "ttA-20260130T141031Z"
     }
 ]
