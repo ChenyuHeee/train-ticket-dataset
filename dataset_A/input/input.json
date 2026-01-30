@@ -154,5 +154,29 @@
     {
         "Anomaly Description": "Please analyze the abnormal event between 2026-01-30T09:41:37+08:00 and 2026-01-30T09:51:53+08:00 and provide the root cause.",
         "uuid": "ttA-20260130T014137Z"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-30T09:55:04+08:00 and 2026-01-30T10:05:20+08:00 and provide the root cause.",
+        "uuid": "ttA-20260130T015504Z"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-30T10:08:36+08:00 to 2026-01-30T10:18:52+08:00.",
+        "uuid": "ttA-20260130T020836Z"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-30T10:22:10+08:00 to 2026-01-30T10:32:26+08:00. Please infer the possible cause.",
+        "uuid": "ttA-20260130T022210Z"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-30T10:35:49+08:00 to 2026-01-30T10:46:38+08:00. Please identify the root cause.",
+        "uuid": "ttA-20260130T023549Z"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-30T10:35:49+08:00 to 2026-01-30T10:46:38+08:00. Please identify the root cause.",
+        "uuid": "tt-20260130T023549Z-tt-net-delay-gateway-to-train-mild"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-30T10:50:05+08:00 and 2026-01-30T11:00:28+08:00 and provide the root cause.",
+        "uuid": "ttA-20260130T025005Z"
     }
 ]
