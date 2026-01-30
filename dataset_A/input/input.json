@@ -242,5 +242,17 @@
     {
         "Anomaly Description": "A fault was detected from 2026-01-30T13:12:24+08:00 to 2026-01-30T13:22:40+08:00. Please analyze its root cause.",
         "uuid": "tt-20260130T051224Z-tt-pod-kill-ts-admin-user-service"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-30T13:26:36+08:00 to 2026-01-30T13:36:53+08:00. Please analyze its root cause.",
+        "uuid": "ttA-20260130T052636Z"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-30T13:26:36+08:00 to 2026-01-30T13:36:53+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260130T052636Z-tt-pod-kill-ts-food-delivery-service"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-30T13:40:55+08:00 to 2026-01-30T13:51:11+08:00. Please identify the root cause.",
+        "uuid": "ttA-20260130T054055Z"
     }
 ]
