@@ -302,5 +302,21 @@
     {
         "Anomaly Description": "A fault was detected from 2026-01-30T18:40:06+08:00 to 2026-01-30T18:50:20+08:00. Please analyze its root cause.",
         "uuid": "ttA-20260130T104006Z"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-30T18:54:24+08:00 to 2026-01-30T19:04:39+08:00. Please identify the root cause.",
+        "uuid": "ttA-20260130T105424Z"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-30T19:00:49+08:00 to 2026-01-30T19:11:03+08:00. Please identify the root cause.",
+        "uuid": "ttA-20260130T110049Z"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-30T19:15:08+08:00 to 2026-01-30T19:25:52+08:00. Please identify the root cause.",
+        "uuid": "ttA-20260130T111508Z"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-30T19:15:08+08:00 to 2026-01-30T19:25:52+08:00. Please identify the root cause.",
+        "uuid": "tt-20260130T111508Z-tt-net-delay-gateway-to-wait-order"
     }
 ]
