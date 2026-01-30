@@ -270,5 +270,25 @@
     {
         "Anomaly Description": "A fault was detected from 2026-01-30T14:23:38+08:00 to 2026-01-30T14:33:54+08:00. Please analyze its root cause.",
         "uuid": "ttA-20260130T062338Z"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-30T14:37:57+08:00 to 2026-01-30T14:48:13+08:00. Please infer the possible cause.",
+        "uuid": "ttA-20260130T063757Z"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-30T14:37:57+08:00 to 2026-01-30T14:48:13+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260130T063757Z-tt-stress-cpu-route-plan"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-30T14:52:11+08:00 and 2026-01-30T15:02:58+08:00 and provide the root cause.",
+        "uuid": "ttA-20260130T065211Z"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-30T14:52:11+08:00 and 2026-01-30T15:02:58+08:00 and provide the root cause.",
+        "uuid": "tt-20260130T065211Z-tt-net-delay-gateway-to-notification"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-30T15:06:45+08:00 to 2026-01-30T15:17:01+08:00.",
+        "uuid": "ttA-20260130T070645Z"
     }
 ]
