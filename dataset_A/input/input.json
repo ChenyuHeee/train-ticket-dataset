@@ -414,5 +414,17 @@
     {
         "Anomaly Description": "A fault occurred from 2026-01-31T01:45:51+08:00 to 2026-01-31T01:56:36+08:00. Please identify the root cause.",
         "uuid": "tt-20260130T174551Z-tt-net-loss-gateway-to-admin-user"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-31T02:00:41+08:00 to 2026-01-31T02:10:57+08:00.",
+        "uuid": "tt-20260130T180041Z-tt-pod-failure-ts-travel-service"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-31T02:15:04+08:00 to 2026-01-31T02:25:51+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260130T181504Z-tt-net-loss-travel-to-train-mild"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-31T02:44:22+08:00 to 2026-01-31T02:54:35+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260130T184422Z-tt-pod-kill-ts-travel-service"
     }
 ]
