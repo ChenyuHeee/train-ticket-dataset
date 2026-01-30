@@ -426,5 +426,9 @@
     {
         "Anomaly Description": "A fault was detected from 2026-01-31T02:44:22+08:00 to 2026-01-31T02:54:35+08:00. Please analyze its root cause.",
         "uuid": "tt-20260130T184422Z-tt-pod-kill-ts-travel-service"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-31T03:27:32+08:00 to 2026-01-31T03:37:49+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260130T192732Z-tt-pod-kill-ts-station-service"
     }
 ]
