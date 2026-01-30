@@ -90,5 +90,21 @@
     {
         "Anomaly Description": "A fault was detected from 2026-01-30T08:47:51+08:00 to 2026-01-30T08:58:08+08:00. Please analyze its root cause.",
         "uuid": "ttB-20260130T004751Z"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-30T09:00:36+08:00 to 2026-01-30T09:10:52+08:00.",
+        "uuid": "ttB-20260130T010036Z"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-30T09:13:20+08:00 to 2026-01-30T09:23:36+08:00. Please identify the root cause.",
+        "uuid": "ttB-20260130T011320Z"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-30T09:26:04+08:00 to 2026-01-30T09:36:20+08:00. Please infer the possible cause.",
+        "uuid": "ttB-20260130T012604Z"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-30T09:38:49+08:00 to 2026-01-30T09:49:04+08:00. Please infer the possible cause.",
+        "uuid": "ttB-20260130T013849Z"
     }
 ]
