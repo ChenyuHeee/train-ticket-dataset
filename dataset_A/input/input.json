@@ -410,5 +410,9 @@
     {
         "Anomaly Description": "Determine the root cause of the system fault during 2026-01-31T00:34:06+08:00 to 2026-01-31T00:44:22+08:00.",
         "uuid": "tt-20260130T163406Z-tt-pod-kill-ts-order-service"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-31T01:45:51+08:00 to 2026-01-31T01:56:36+08:00. Please identify the root cause.",
+        "uuid": "tt-20260130T174551Z-tt-net-loss-gateway-to-admin-user"
     }
 ]
