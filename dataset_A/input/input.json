@@ -178,5 +178,37 @@
     {
         "Anomaly Description": "Please analyze the abnormal event between 2026-01-30T10:50:05+08:00 and 2026-01-30T11:00:28+08:00 and provide the root cause.",
         "uuid": "ttA-20260130T025005Z"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-30T11:04:07+08:00 to 2026-01-30T11:14:23+08:00. Please infer the possible cause.",
+        "uuid": "ttA-20260130T030407Z"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-30T11:04:07+08:00 to 2026-01-30T11:14:23+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260130T030407Z-tt-stress-mem-auth"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-30T11:17:59+08:00 to 2026-01-30T11:28:45+08:00. Please identify the root cause.",
+        "uuid": "ttA-20260130T031759Z"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-30T11:17:59+08:00 to 2026-01-30T11:28:45+08:00. Please identify the root cause.",
+        "uuid": "tt-20260130T031759Z-tt-net-delay-gateway-to-route"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-30T11:32:25+08:00 and 2026-01-30T11:43:11+08:00 and provide the root cause.",
+        "uuid": "ttA-20260130T033224Z"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-30T11:32:25+08:00 and 2026-01-30T11:43:11+08:00 and provide the root cause.",
+        "uuid": "tt-20260130T033224Z-tt-net-delay-gateway-to-basic"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-30T11:46:55+08:00 to 2026-01-30T11:57:12+08:00. Please infer the possible cause.",
+        "uuid": "ttA-20260130T034655Z"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-30T11:46:55+08:00 to 2026-01-30T11:57:12+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260130T034655Z-tt-stress-cpu-contacts"
     }
 ]
