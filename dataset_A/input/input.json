@@ -474,5 +474,13 @@
     {
         "Anomaly Description": "Please analyze the abnormal event between 2026-02-01T06:51:30+08:00 and 2026-02-01T06:57:44+08:00 and provide the root cause.",
         "uuid": "tt-20260131T225130Z-tt-net-loss-gateway-to-news"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-02-01T07:03:35+08:00 to 2026-02-01T07:09:39+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T230335Z-tt-pod-kill-ts-notification-service"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-02-01T07:14:53+08:00 to 2026-02-01T07:21:33+08:00.",
+        "uuid": "tt-20260131T231453Z-tt-net-loss-gateway-to-admin-order"
     }
 ]
