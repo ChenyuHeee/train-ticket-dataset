@@ -266,5 +266,9 @@
     {
         "Anomaly Description": "A fault occurred from 2026-01-31T17:13:53+08:00 to 2026-01-31T17:19:08+08:00. Please identify the root cause.",
         "uuid": "tt-20260131T091353Z-tt-stress-mem-auth"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-31T17:39:41+08:00 to 2026-01-31T17:45:27+08:00.",
+        "uuid": "tt-20260131T093941Z-tt-net-delay-gateway-to-contacts"
     }
 ]
