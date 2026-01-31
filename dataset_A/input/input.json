@@ -298,5 +298,17 @@
     {
         "Anomaly Description": "Please analyze the abnormal event between 2026-01-31T22:49:02+08:00 and 2026-01-31T22:55:53+08:00 and provide the root cause.",
         "uuid": "tt-20260131T144902Z-tt-net-loss-order-to-route"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-31T22:59:58+08:00 to 2026-01-31T23:06:37+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260131T145958Z-tt-net-delay-gateway-to-admin-user"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-31T23:10:43+08:00 to 2026-01-31T23:16:50+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T151043Z-tt-stress-mem-route-plan"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-31T23:20:54+08:00 to 2026-01-31T23:26:38+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260131T152054Z-tt-stress-cpu-inside-payment"
     }
 ]
