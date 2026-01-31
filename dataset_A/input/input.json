@@ -334,5 +334,13 @@
     {
         "Anomaly Description": "The system experienced an anomaly from 2026-02-01T00:22:00+08:00 to 2026-02-01T00:28:28+08:00. Please infer the possible cause.",
         "uuid": "tt-20260131T162200Z-tt-pod-kill-ts-rebook-service"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-02-01T00:33:00+08:00 to 2026-02-01T00:40:16+08:00.",
+        "uuid": "tt-20260131T163300Z-tt-net-delay-gateway-to-wait-order"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-02-01T00:44:41+08:00 and 2026-02-01T00:50:33+08:00 and provide the root cause.",
+        "uuid": "tt-20260131T164441Z-tt-pod-failure-ts-station-service"
     }
 ]
