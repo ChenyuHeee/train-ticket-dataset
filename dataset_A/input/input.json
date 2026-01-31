@@ -474,5 +474,17 @@
     {
         "Anomaly Description": "Please analyze the abnormal event between 2026-01-31T07:50:31+08:00 and 2026-01-31T08:00:48+08:00 and provide the root cause.",
         "uuid": "tt-20260130T235031Z-tt-stress-mem-consign-price"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-31T08:04:46+08:00 and 2026-01-31T08:15:03+08:00 and provide the root cause.",
+        "uuid": "tt-20260131T000446Z-tt-pod-failure-ts-station-service"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-31T08:32:12+08:00 to 2026-01-31T08:42:59+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260131T003212Z-tt-net-delay-gateway-to-admin-basic-info"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-31T08:46:38+08:00 to 2026-01-31T08:57:25+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260131T004638Z-tt-net-loss-gateway-to-delivery"
     }
 ]
