@@ -354,5 +354,17 @@
     {
         "Anomaly Description": "A fault occurred from 2026-02-01T01:15:58+08:00 to 2026-02-01T01:22:13+08:00. Please identify the root cause.",
         "uuid": "tt-20260131T171558Z-tt-net-delay-gateway-to-consign-price"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-02-01T01:26:56+08:00 to 2026-02-01T01:32:40+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260131T172656Z-tt-stress-mem-config"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-02-01T01:37:24+08:00 to 2026-02-01T01:43:08+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260131T173724Z-tt-pod-kill-ts-voucher-service"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-02-01T01:47:48+08:00 to 2026-02-01T01:53:30+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T174748Z-tt-stress-mem-travel-plan"
     }
 ]
