@@ -98,5 +98,21 @@
     {
         "Anomaly Description": "Determine the root cause of the system fault during 2026-01-31T22:46:40+08:00 to 2026-01-31T22:51:56+08:00.",
         "uuid": "tt-20260131T144640Z-tt-net-loss-gateway-to-food-delivery"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-31T22:54:32+08:00 to 2026-01-31T22:59:47+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260131T145432Z-tt-stress-mem-notification"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-31T23:02:22+08:00 to 2026-01-31T23:07:50+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T150222Z-tt-pod-kill-ts-contacts-service"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-31T23:10:27+08:00 to 2026-01-31T23:15:43+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260131T151027Z-tt-net-loss-order-to-route"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-31T23:18:17+08:00 to 2026-01-31T23:23:33+08:00.",
+        "uuid": "tt-20260131T151817Z-tt-stress-mem-admin-travel"
     }
 ]
