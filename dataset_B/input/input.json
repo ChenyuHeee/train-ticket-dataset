@@ -38,5 +38,13 @@
     {
         "Anomaly Description": "A fault was detected from 2026-01-31T17:19:54+08:00 to 2026-01-31T17:25:09+08:00. Please analyze its root cause.",
         "uuid": "tt-20260131T091954Z-tt-net-delay-order-to-payment"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-31T17:27:14+08:00 to 2026-01-31T17:32:59+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T092714Z-tt-net-loss-gateway-to-basic"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-31T17:35:05+08:00 and 2026-01-31T17:40:20+08:00 and provide the root cause.",
+        "uuid": "tt-20260131T093505Z-tt-stress-cpu-food"
     }
 ]
