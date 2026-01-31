@@ -282,5 +282,13 @@
     {
         "Anomaly Description": "A fault was detected from 2026-01-31T18:15:17+08:00 to 2026-01-31T18:20:33+08:00. Please analyze its root cause.",
         "uuid": "tt-20260131T101517Z-tt-pod-kill-ts-user-service"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-31T18:41:18+08:00 to 2026-01-31T18:46:34+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260131T104118Z-tt-stress-cpu-order-other"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-31T18:49:57+08:00 and 2026-01-31T18:55:12+08:00 and provide the root cause.",
+        "uuid": "tt-20260131T104957Z-tt-pod-kill-ts-ticket-office-service"
     }
 ]
