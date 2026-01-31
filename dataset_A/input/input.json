@@ -366,5 +366,17 @@
     {
         "Anomaly Description": "A fault occurred from 2026-02-01T01:47:48+08:00 to 2026-02-01T01:53:30+08:00. Please identify the root cause.",
         "uuid": "tt-20260131T174748Z-tt-stress-mem-travel-plan"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-02-01T01:58:06+08:00 to 2026-02-01T02:04:14+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260131T175806Z-tt-stress-cpu-consign-price"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-02-01T02:08:53+08:00 to 2026-02-01T02:16:16+08:00.",
+        "uuid": "tt-20260131T180853Z-tt-net-loss-gateway-to-auth-mild"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-02-01T02:20:59+08:00 to 2026-02-01T02:27:14+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T182059Z-tt-net-loss-gateway-to-avatar"
     }
 ]
