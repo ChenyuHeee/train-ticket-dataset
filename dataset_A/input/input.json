@@ -250,5 +250,9 @@
     {
         "Anomaly Description": "A fault was detected from 2026-01-31T15:32:47+08:00 to 2026-01-31T15:43:34+08:00. Please analyze its root cause.",
         "uuid": "tt-20260131T073247Z-tt-net-loss-gateway-to-consign"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-31T16:48:11+08:00 to 2026-01-31T16:53:26+08:00.",
+        "uuid": "tt-20260131T084811Z-tt-pod-kill-ts-consign-price-service"
     }
 ]
