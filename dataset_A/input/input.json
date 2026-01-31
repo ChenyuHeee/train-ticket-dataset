@@ -270,5 +270,17 @@
     {
         "Anomaly Description": "Determine the root cause of the system fault during 2026-01-31T17:39:41+08:00 to 2026-01-31T17:45:27+08:00.",
         "uuid": "tt-20260131T093941Z-tt-net-delay-gateway-to-contacts"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-31T17:57:27+08:00 to 2026-01-31T18:03:13+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260131T095727Z-tt-net-loss-gateway-to-avatar"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-31T18:06:38+08:00 to 2026-01-31T18:11:54+08:00.",
+        "uuid": "tt-20260131T100638Z-tt-pod-kill-ts-route-plan-service"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-31T18:15:17+08:00 to 2026-01-31T18:20:33+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260131T101517Z-tt-pod-kill-ts-user-service"
     }
 ]
