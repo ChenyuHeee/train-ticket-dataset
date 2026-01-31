@@ -442,5 +442,17 @@
     {
         "Anomaly Description": "Determine the root cause of the system fault during 2026-02-01T05:20:21+08:00 to 2026-02-01T05:26:06+08:00.",
         "uuid": "tt-20260131T212021Z-tt-stress-mem-food"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-02-01T05:31:17+08:00 to 2026-02-01T05:37:31+08:00.",
+        "uuid": "tt-20260131T213117Z-tt-net-delay-gateway-to-admin-basic-info"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-02-01T05:42:47+08:00 to 2026-02-01T05:48:30+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260131T214247Z-tt-pod-kill-ts-station-food-service"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-02-01T05:53:42+08:00 to 2026-02-01T05:59:25+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260131T215342Z-tt-pod-kill-ts-user-service"
     }
 ]
