@@ -114,5 +114,21 @@
     {
         "Anomaly Description": "Determine the root cause of the system fault during 2026-01-31T23:18:17+08:00 to 2026-01-31T23:23:33+08:00.",
         "uuid": "tt-20260131T151817Z-tt-stress-mem-admin-travel"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-31T23:26:08+08:00 to 2026-01-31T23:31:23+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260131T152608Z-tt-net-loss-gateway-to-seat-mild"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-31T23:33:58+08:00 to 2026-01-31T23:39:14+08:00.",
+        "uuid": "tt-20260131T153358Z-tt-pod-kill-ts-wait-order-service"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-31T23:41:49+08:00 and 2026-01-31T23:47:05+08:00 and provide the root cause.",
+        "uuid": "tt-20260131T154149Z-tt-net-loss-gateway-to-auth"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-31T23:49:40+08:00 and 2026-01-31T23:54:56+08:00 and provide the root cause.",
+        "uuid": "tt-20260131T154940Z-tt-stress-mem-verification-code"
     }
 ]
