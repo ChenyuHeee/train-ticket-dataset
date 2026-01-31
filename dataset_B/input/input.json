@@ -278,5 +278,21 @@
     {
         "Anomaly Description": "A fault occurred from 2026-02-01T04:44:25+08:00 to 2026-02-01T04:49:41+08:00. Please identify the root cause.",
         "uuid": "tt-20260131T204425Z-tt-pod-kill-ts-basic-service"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-02-01T04:52:29+08:00 to 2026-02-01T04:57:45+08:00.",
+        "uuid": "tt-20260131T205229Z-tt-stress-cpu-security"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-02-01T05:00:34+08:00 and 2026-02-01T05:05:50+08:00 and provide the root cause.",
+        "uuid": "tt-20260131T210034Z-tt-net-loss-gateway-to-admin-basic-info"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-02-01T05:08:39+08:00 to 2026-02-01T05:13:55+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260131T210839Z-tt-pod-kill-ts-admin-order-service"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-02-01T05:16:44+08:00 to 2026-02-01T05:22:00+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260131T211644Z-tt-pod-kill-ts-consign-price-service"
     }
 ]
