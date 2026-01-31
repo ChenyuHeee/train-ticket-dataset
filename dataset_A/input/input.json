@@ -526,5 +526,9 @@
     {
         "Anomaly Description": "A fault occurred from 2026-01-31T14:04:54+08:00 to 2026-01-31T14:15:10+08:00. Please identify the root cause.",
         "uuid": "tt-20260131T060454Z-tt-stress-cpu-price"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-31T15:18:08+08:00 to 2026-01-31T15:28:21+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260131T071808Z-tt-stress-cpu-consign-price"
     }
 ]
