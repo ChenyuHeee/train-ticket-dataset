@@ -254,5 +254,17 @@
     {
         "Anomaly Description": "Determine the root cause of the system fault during 2026-01-31T16:48:11+08:00 to 2026-01-31T16:53:26+08:00.",
         "uuid": "tt-20260131T084811Z-tt-pod-kill-ts-consign-price-service"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-31T16:56:47+08:00 to 2026-01-31T17:02:03+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260131T085647Z-tt-stress-mem-user"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-31T17:05:14+08:00 to 2026-01-31T17:10:30+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T090514Z-tt-stress-mem-admin-user"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-31T17:13:53+08:00 to 2026-01-31T17:19:08+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T091353Z-tt-stress-mem-auth"
     }
 ]
