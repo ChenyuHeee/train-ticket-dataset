@@ -410,5 +410,13 @@
     {
         "Anomaly Description": "The system experienced an anomaly from 2026-02-01T03:51:05+08:00 to 2026-02-01T03:57:00+08:00. Please infer the possible cause.",
         "uuid": "tt-20260131T195105Z-tt-stress-mem-train"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-02-01T04:02:04+08:00 to 2026-02-01T04:07:50+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260131T200203Z-tt-stress-cpu-assurance"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-02-01T04:12:56+08:00 to 2026-02-01T04:19:19+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T201256Z-tt-net-delay-gateway-to-station-food"
     }
 ]
