@@ -202,5 +202,21 @@
     {
         "Anomaly Description": "A fault was detected from 2026-02-01T02:12:08+08:00 to 2026-02-01T02:17:24+08:00. Please analyze its root cause.",
         "uuid": "tt-20260131T181208Z-tt-pod-kill-ts-avatar-service"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-02-01T02:20:06+08:00 and 2026-02-01T02:25:22+08:00 and provide the root cause.",
+        "uuid": "tt-20260131T182006Z-tt-stress-mem-travel-plan"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-02-01T02:28:04+08:00 to 2026-02-01T02:33:20+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260131T182804Z-tt-pod-kill-ts-preserve-service"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-02-01T02:36:03+08:00 to 2026-02-01T02:41:19+08:00.",
+        "uuid": "tt-20260131T183603Z-tt-stress-mem-order-other"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-02-01T02:44:02+08:00 to 2026-02-01T02:49:18+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T184402Z-tt-stress-mem-news"
     }
 ]
