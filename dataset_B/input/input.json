@@ -174,5 +174,21 @@
     {
         "Anomaly Description": "A fault was detected from 2026-02-01T01:16:32+08:00 to 2026-02-01T01:21:47+08:00. Please analyze its root cause.",
         "uuid": "tt-20260131T171632Z-tt-net-loss-gateway-to-travel2"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-02-01T01:24:27+08:00 to 2026-02-01T01:29:43+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T172427Z-tt-stress-mem-payment"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-02-01T01:32:23+08:00 to 2026-02-01T01:37:39+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T173223Z-tt-pod-kill-ts-food-delivery-service"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-02-01T01:40:19+08:00 to 2026-02-01T01:45:35+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T174019Z-tt-stress-cpu-preserve-other"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-02-01T01:48:16+08:00 to 2026-02-01T01:53:31+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T174816Z-tt-net-loss-gateway-to-payment"
     }
 ]
