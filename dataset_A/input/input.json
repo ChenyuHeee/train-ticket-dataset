@@ -398,5 +398,17 @@
     {
         "Anomaly Description": "Please analyze the abnormal event between 2026-02-01T03:16:48+08:00 and 2026-02-01T03:22:48+08:00 and provide the root cause.",
         "uuid": "tt-20260131T191648Z-tt-stress-mem-consign-price"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-02-01T03:27:43+08:00 to 2026-02-01T03:34:45+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260131T192743Z-tt-net-delay-gateway-to-rebook"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-02-01T03:39:42+08:00 to 2026-02-01T03:46:05+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260131T193942Z-tt-net-loss-gateway-to-execute"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-02-01T03:51:05+08:00 to 2026-02-01T03:57:00+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260131T195105Z-tt-stress-mem-train"
     }
 ]
