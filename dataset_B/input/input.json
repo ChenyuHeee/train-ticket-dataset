@@ -262,5 +262,21 @@
     {
         "Anomaly Description": "Determine the root cause of the system fault during 2026-02-01T04:12:12+08:00 to 2026-02-01T04:17:28+08:00.",
         "uuid": "tt-20260131T201212Z-tt-net-delay-gateway-to-payment"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-02-01T04:20:15+08:00 to 2026-02-01T04:25:31+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T202015Z-tt-net-loss-gateway-to-station-mild"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-02-01T04:28:18+08:00 to 2026-02-01T04:33:34+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260131T202818Z-tt-net-loss-gateway-to-ticket-office"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-02-01T04:36:22+08:00 to 2026-02-01T04:41:37+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260131T203622Z-tt-pod-kill-ts-travel2-service"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-02-01T04:44:25+08:00 to 2026-02-01T04:49:41+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T204425Z-tt-pod-kill-ts-basic-service"
     }
 ]
