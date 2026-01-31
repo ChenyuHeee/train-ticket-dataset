@@ -502,5 +502,9 @@
     {
         "Anomaly Description": "Determine the root cause of the system fault during 2026-01-31T10:40:32+08:00 to 2026-01-31T10:51:18+08:00.",
         "uuid": "tt-20260131T024032Z-tt-net-loss-gateway-to-basic"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-31T11:53:08+08:00 to 2026-01-31T12:03:54+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T035308Z-tt-net-delay-gateway-to-user-mild"
     }
 ]
