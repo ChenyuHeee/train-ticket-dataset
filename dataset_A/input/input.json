@@ -466,5 +466,13 @@
     {
         "Anomaly Description": "Determine the root cause of the system fault during 2026-01-31T06:22:37+08:00 to 2026-01-31T06:33:24+08:00.",
         "uuid": "tt-20260130T222237Z-tt-net-loss-gateway-to-route-mild"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-31T07:06:38+08:00 and 2026-01-31T07:17:24+08:00 and provide the root cause.",
+        "uuid": "tt-20260130T230638Z-tt-net-loss-gateway-to-travel"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-31T07:50:31+08:00 and 2026-01-31T08:00:48+08:00 and provide the root cause.",
+        "uuid": "tt-20260130T235031Z-tt-stress-mem-consign-price"
     }
 ]
