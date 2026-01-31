@@ -454,5 +454,13 @@
     {
         "Anomaly Description": "The system experienced an anomaly from 2026-02-01T05:53:42+08:00 to 2026-02-01T05:59:25+08:00. Please infer the possible cause.",
         "uuid": "tt-20260131T215342Z-tt-pod-kill-ts-user-service"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-02-01T06:04:46+08:00 and 2026-02-01T06:10:31+08:00 and provide the root cause.",
+        "uuid": "tt-20260131T220446Z-tt-stress-mem-cancel"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-02-01T06:15:52+08:00 to 2026-02-01T06:22:06+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T221552Z-tt-net-loss-gateway-to-station-mild"
     }
 ]
