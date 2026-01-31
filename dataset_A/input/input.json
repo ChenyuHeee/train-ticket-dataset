@@ -506,5 +506,13 @@
     {
         "Anomaly Description": "A fault occurred from 2026-01-31T11:53:08+08:00 to 2026-01-31T12:03:54+08:00. Please identify the root cause.",
         "uuid": "tt-20260131T035308Z-tt-net-delay-gateway-to-user-mild"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-31T12:51:47+08:00 to 2026-01-31T13:02:04+08:00.",
+        "uuid": "tt-20260131T045147Z-tt-stress-cpu-travel-plan"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-31T13:06:23+08:00 to 2026-01-31T13:16:40+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T050623Z-tt-pod-kill-ts-payment-service"
     }
 ]
