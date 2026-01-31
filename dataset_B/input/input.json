@@ -70,5 +70,25 @@
     {
         "Anomaly Description": "Please analyze the abnormal event between 2026-01-31T18:19:44+08:00 and 2026-01-31T18:24:59+08:00 and provide the root cause.",
         "uuid": "tt-20260131T101944Z-tt-pod-kill-ts-user-service"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-31T18:27:06+08:00 to 2026-01-31T18:32:22+08:00.",
+        "uuid": "tt-20260131T102706Z-tt-stress-cpu-food-delivery"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-01-31T18:34:29+08:00 and 2026-01-31T18:39:44+08:00 and provide the root cause.",
+        "uuid": "tt-20260131T103429Z-tt-pod-kill-ts-seat-service"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-01-31T18:41:52+08:00 to 2026-01-31T18:47:07+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260131T104152Z-tt-stress-mem-voucher"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-31T18:49:15+08:00 to 2026-01-31T18:54:36+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260131T104915Z-tt-pod-kill-ts-payment-service"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-31T18:56:45+08:00 to 2026-01-31T19:02:00+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T105645Z-tt-net-delay-gateway-to-travel-plan"
     }
 ]
