@@ -246,5 +246,9 @@
     {
         "Anomaly Description": "A fault was detected from 2026-01-31T15:18:08+08:00 to 2026-01-31T15:28:21+08:00. Please analyze its root cause.",
         "uuid": "tt-20260131T071808Z-tt-stress-cpu-consign-price"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-01-31T15:32:47+08:00 to 2026-01-31T15:43:34+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260131T073247Z-tt-net-loss-gateway-to-consign"
     }
 ]
