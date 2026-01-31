@@ -190,5 +190,17 @@
     {
         "Anomaly Description": "A fault occurred from 2026-02-01T01:48:16+08:00 to 2026-02-01T01:53:31+08:00. Please identify the root cause.",
         "uuid": "tt-20260131T174816Z-tt-net-loss-gateway-to-payment"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-02-01T01:56:13+08:00 to 2026-02-01T02:01:29+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T175613Z-tt-net-delay-gateway-to-basic"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-02-01T02:04:10+08:00 and 2026-02-01T02:09:26+08:00 and provide the root cause.",
+        "uuid": "tt-20260131T180410Z-tt-net-loss-gateway-to-seat"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-02-01T02:12:08+08:00 to 2026-02-01T02:17:24+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260131T181208Z-tt-pod-kill-ts-avatar-service"
     }
 ]
