@@ -494,5 +494,13 @@
     {
         "Anomaly Description": "A fault was detected from 2026-01-31T09:29:22+08:00 to 2026-01-31T09:39:35+08:00. Please analyze its root cause.",
         "uuid": "tt-20260131T012922Z-tt-stress-mem-news"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-01-31T10:25:47+08:00 to 2026-01-31T10:36:33+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T022547Z-tt-net-loss-gateway-to-preserve-other"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-01-31T10:40:32+08:00 to 2026-01-31T10:51:18+08:00.",
+        "uuid": "tt-20260131T024032Z-tt-net-loss-gateway-to-basic"
     }
 ]
