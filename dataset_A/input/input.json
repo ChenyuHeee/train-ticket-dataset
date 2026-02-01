@@ -506,5 +506,13 @@
     {
         "Anomaly Description": "A fault was detected from 2026-02-01T08:33:08+08:00 to 2026-02-01T08:39:19+08:00. Please analyze its root cause.",
         "uuid": "tt-20260201T003308Z-tt-stress-cpu-basic"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-02-01T08:55:28+08:00 to 2026-02-01T09:01:39+08:00. Please identify the root cause.",
+        "uuid": "tt-20260201T005528Z-tt-stress-cpu-delivery"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-02-01T09:17:56+08:00 and 2026-02-01T09:24:38+08:00 and provide the root cause.",
+        "uuid": "tt-20260201T011756Z-tt-net-delay-gateway-to-config"
     }
 ]
