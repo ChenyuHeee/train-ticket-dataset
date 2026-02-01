@@ -454,5 +454,21 @@
     {
         "Anomaly Description": "A fault occurred from 2026-02-01T10:45:40+08:00 to 2026-02-01T10:50:56+08:00. Please identify the root cause.",
         "uuid": "tt-20260201T024540Z-tt-pod-kill-ts-station-food-service"
+    },
+    {
+        "Anomaly Description": "The system experienced an anomaly from 2026-02-01T10:54:01+08:00 to 2026-02-01T10:59:17+08:00. Please infer the possible cause.",
+        "uuid": "tt-20260201T025401Z-tt-net-loss-user-to-auth"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-02-01T11:02:24+08:00 to 2026-02-01T11:07:40+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260201T030224Z-tt-pod-kill-ts-rebook-service"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-02-01T11:10:47+08:00 to 2026-02-01T11:16:04+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260201T031047Z-tt-stress-mem-delivery"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-02-01T11:19:10+08:00 to 2026-02-01T11:24:25+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260201T031910Z-tt-pod-kill-ts-train-food-service"
     }
 ]
