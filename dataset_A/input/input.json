@@ -546,5 +546,13 @@
     {
         "Anomaly Description": "Please analyze the abnormal event between 2026-02-01T10:48:13+08:00 and 2026-02-01T10:53:56+08:00 and provide the root cause.",
         "uuid": "tt-20260201T024813Z-tt-stress-mem-avatar"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-02-01T10:58:53+08:00 to 2026-02-01T11:05:22+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260201T025853Z-tt-stress-mem-security"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-02-01T11:10:26+08:00 to 2026-02-01T11:16:53+08:00. Please identify the root cause.",
+        "uuid": "tt-20260201T031026Z-tt-stress-cpu-security"
     }
 ]
