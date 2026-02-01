@@ -482,5 +482,17 @@
     {
         "Anomaly Description": "Determine the root cause of the system fault during 2026-02-01T07:14:53+08:00 to 2026-02-01T07:21:33+08:00.",
         "uuid": "tt-20260131T231453Z-tt-net-loss-gateway-to-admin-order"
+    },
+    {
+        "Anomaly Description": "A fault occurred from 2026-02-01T07:26:54+08:00 to 2026-02-01T07:32:37+08:00. Please identify the root cause.",
+        "uuid": "tt-20260131T232654Z-tt-stress-mem-ticket-office"
+    },
+    {
+        "Anomaly Description": "Please analyze the abnormal event between 2026-02-01T07:37:57+08:00 and 2026-02-01T07:43:41+08:00 and provide the root cause.",
+        "uuid": "tt-20260131T233757Z-tt-stress-cpu-travel-plan"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-02-01T07:49:07+08:00 to 2026-02-01T07:55:32+08:00.",
+        "uuid": "tt-20260131T234907Z-tt-net-loss-gateway-to-travel-plan"
     }
 ]
