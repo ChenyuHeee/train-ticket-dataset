@@ -502,5 +502,9 @@
     {
         "Anomaly Description": "A fault was detected from 2026-02-01T08:12:07+08:00 to 2026-02-01T08:18:22+08:00. Please analyze its root cause.",
         "uuid": "tt-20260201T001207Z-tt-net-delay-gateway-to-travel-mild"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-02-01T08:33:08+08:00 to 2026-02-01T08:39:19+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260201T003308Z-tt-stress-cpu-basic"
     }
 ]
