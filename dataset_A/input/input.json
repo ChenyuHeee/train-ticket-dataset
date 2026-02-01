@@ -494,5 +494,13 @@
     {
         "Anomaly Description": "Determine the root cause of the system fault during 2026-02-01T07:49:07+08:00 to 2026-02-01T07:55:32+08:00.",
         "uuid": "tt-20260131T234907Z-tt-net-loss-gateway-to-travel-plan"
+    },
+    {
+        "Anomaly Description": "Determine the root cause of the system fault during 2026-02-01T08:00:56+08:00 to 2026-02-01T08:07:10+08:00.",
+        "uuid": "tt-20260201T000056Z-tt-net-delay-gateway-to-seat"
+    },
+    {
+        "Anomaly Description": "A fault was detected from 2026-02-01T08:12:07+08:00 to 2026-02-01T08:18:22+08:00. Please analyze its root cause.",
+        "uuid": "tt-20260201T001207Z-tt-net-delay-gateway-to-travel-mild"
     }
 ]
