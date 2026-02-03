@@ -5,5 +5,8 @@
 # Local backup folders created during rebuilds
 **/metric-parquet/apm.bak_*/
 
+# Backup trace outputs created during rebuilds
+**/trace-parquet.bak_*/
+
 # macOS
 .DS_Store
