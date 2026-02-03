@@ -1,0 +1,6 @@
+# Ephemeral build markers
+**/.apm_build/
+.apm_build/
+
+# macOS
+.DS_Store
