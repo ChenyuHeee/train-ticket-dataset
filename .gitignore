@@ -2,5 +2,8 @@
 **/.apm_build/
 .apm_build/
 
+# Local backup folders created during rebuilds
+**/metric-parquet/apm.bak_*/
+
 # macOS
 .DS_Store
